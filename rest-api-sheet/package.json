@@ -2,6 +2,7 @@
   "name": "slipslap-warehouse",
   "version": "1.0.0",
   "description": "REST API to access SlipSlap's warehouse Google Sheet",
+  "repository": "github:momander/serverlesstoolbox/tree/master/rest-api-sheet",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
